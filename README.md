@@ -3,6 +3,8 @@
 ## Summary
 A course activity where I worked a phishing alert ticket from start to finish using a phishing incident response playbook. I evaluated the email, confirmed its attachment was malicious, and escalated the ticket to a level-two SOC analyst with a written summary of my findings.
 
+> Part of my [Incident Response Journal](https://github.com/john-danko-cyber/incident-response-journal) (Entry 5), which collects all my Detection and Response course labs.
+
 ## My Role
 I reviewed the alert ticket and email details, answered the 5 W's of the incident, followed the playbook's decision steps, and updated the ticket's status and comments. The malicious verdict on the attachment comes from my own VirusTotal lookup of the same hash in a previous activity ([virustotal-pyramid-of-pain](https://github.com/john-danko-cyber/virustotal-pyramid-of-pain)). The ticket, email, and playbook were provided by the course.
 
